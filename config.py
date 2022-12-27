@@ -1,0 +1,6 @@
+customhost = "employee1.coua2spepu2o.us-east-1.rds.amazonaws.com"
+customuser = "techclomate "
+custompass = "123456"
+customdb = "employee"
+custombucket = "tallyemployee"
+customregion = "us-east-2"
